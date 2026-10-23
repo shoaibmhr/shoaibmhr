@@ -138,14 +138,14 @@ I'm now expanding into **AI & Machine Learning**, starting with Python, web scra
 
 <!-- ================================================================== -->
 <!--                  5. DEVELOPER STICKER (LEARNING)                   -->
-<!--   Upload your sticker as assets/coding.gif (or coding.png) first   -->
+<!--         Needs the file assets/coding.svg in the same repo          -->
 <!-- ================================================================== -->
 
 <table>
 <tr>
 <td width="45%" align="center" valign="middle">
 
-<img src="./assets/coding.gif" width="380" alt="Developer learning and coding on a laptop"/>
+<img src="./assets/coding.svg" width="400" alt="Developer learning and coding on a laptop"/>
 
 </td>
 <td width="55%" valign="middle">
@@ -887,11 +887,15 @@ If you're hiring for an internship or junior role, or need a developer for a fre
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=shoaibmhr&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="GitHub Trophies"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibmhr&theme=react-dark&hide_border=true&bg_color=0D1117&color=22D3EE&line=0891B2&point=FFFFFF&area=true&area_color=0891B2" alt="Contribution Graph"/>
+<a href="https://github.com/shoaibmhr?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View_All-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+<a href="https://github.com/shoaibmhr?tab=followers">
+  <img src="https://img.shields.io/github/followers/shoaibmhr?style=for-the-badge&logo=github&logoColor=white&color=0E7490&label=Followers" alt="Followers"/>
+</a>
+<a href="https://github.com/shoaibmhr?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-Explore-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+</a>
 
 </div>
 
