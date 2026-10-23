@@ -1,67 +1,51 @@
-<!-- ================================================================== -->
-<!--                                                                    -->
-<!--                      SHOAIB NAWAZ - GITHUB PROFILE                 -->
-<!--                  github.com/shoaibmhr/shoaibmhr                    -->
-<!--                                                                    -->
-<!-- ================================================================== -->
-
 <a id="top"></a>
 
 <!-- ================================================================== -->
-<!--                         1. HEADER / BANNER                         -->
+<!--                  1. BANNER + SOCIAL BADGES                         -->
 <!-- ================================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,45:0E7490,100:06B6D4&text=Shoaib%20Nawaz&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=Software%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=19&animation=fadeIn&section=header" alt="Shoaib Nawaz - Full-Stack Web Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,50:1f2937,100:6b7280&text=Welcome%20to%20Shoaib's%20Github%20%3C%2F%3E&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Software%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20Web%20Developer&descAlignY=60&descSize=17&animation=fadeIn&section=header" alt="Welcome to Shoaib's Github"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=780&height=45&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;React.js+%7C+Node.js+%7C+PostgreSQL;Building+real-world+web+applications;Clean+code.+Responsive+design.+Real+results.;Now+exploring+AI+%26+Machine+Learning+%F0%9F%A4%96" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=780&height=40&lines=React.js+%7C+Node.js+%7C+PostgreSQL;Building+real-world+web+applications;Clean+code.+Responsive+design.+Real+results.;Now+exploring+AI+%26+Machine+Learning" alt="Typing animation"/>
 
 <br/>
 
-<a href="https://github.com/shoaibmhr">
-  <img src="https://img.shields.io/badge/GitHub-shoaibmhr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/shoaib-nawaz-tech">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:shoaibmhr895@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://www.linkedin.com/in/shoaib-nawaz-tech"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/shoaibmhr"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:shoaibmhr895@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://artbyadeel.com"><img src="https://img.shields.io/badge/ARTBYADEEL.COM-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website"/></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Status-Open_to_Work-22C55E?style=flat-square&logo=checkmarx&logoColor=white" alt="Open to work"/>
-<img src="https://img.shields.io/badge/Location-Pakistan-0891B2?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-<img src="https://img.shields.io/badge/Focus-Full--Stack_Development-7C3AED?style=flat-square&logo=react&logoColor=white" alt="Focus"/>
-<img src="https://img.shields.io/badge/Learning-AI_%26_ML-F59E0B?style=flat-square&logo=python&logoColor=white" alt="Learning"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-000000?style=flat-square&logo=checkmarx&logoColor=white" alt="Open to work"/>
+<img src="https://img.shields.io/badge/Location-Pakistan-000000?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+<img src="https://img.shields.io/badge/Focus-Full--Stack_Development-000000?style=flat-square&logo=react&logoColor=white" alt="Focus"/>
+<img src="https://img.shields.io/badge/Learning-AI_%26_ML-000000?style=flat-square&logo=python&logoColor=white" alt="Learning"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shoaibmhr&label=Profile%20Views&color=0891b2&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/shoaibmhr?style=flat-square&logo=github&color=0891B2" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/shoaibmhr?style=flat-square&logo=github&color=0891B2" alt="Stars"/>
-<img src="https://img.shields.io/github/last-commit/shoaibmhr/shoaibmhr?style=flat-square&logo=github&color=0891B2" alt="Last Commit"/>
+<img src="https://komarev.com/ghpvc/?username=shoaibmhr&label=Profile%20Views&color=000000&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/shoaibmhr?style=flat-square&logo=github&color=000000" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/shoaibmhr?style=flat-square&logo=github&color=000000" alt="Stars"/>
+<img src="https://img.shields.io/github/last-commit/shoaibmhr/shoaibmhr?style=flat-square&logo=github&color=000000" alt="Last Commit"/>
 
 </div>
 
 <br/>
 
-<!-- ================================================================== -->
-<!--                         2. QUICK NAVIGATION                        -->
-<!-- ================================================================== -->
-
 <div align="center">
 
-<a href="#about"><img src="https://img.shields.io/badge/About-0E7490?style=flat-square" alt="About"/></a>
-<a href="#services"><img src="https://img.shields.io/badge/Services-0E7490?style=flat-square" alt="Services"/></a>
-<a href="#stack"><img src="https://img.shields.io/badge/Tech_Stack-0E7490?style=flat-square" alt="Tech Stack"/></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Projects-0E7490?style=flat-square" alt="Projects"/></a>
-<a href="#repos"><img src="https://img.shields.io/badge/Repositories-0E7490?style=flat-square" alt="Repositories"/></a>
-<a href="#process"><img src="https://img.shields.io/badge/How_I_Work-0E7490?style=flat-square" alt="How I Work"/></a>
-<a href="#roadmap"><img src="https://img.shields.io/badge/Roadmap-0E7490?style=flat-square" alt="Roadmap"/></a>
-<a href="#analytics"><img src="https://img.shields.io/badge/Analytics-0E7490?style=flat-square" alt="Analytics"/></a>
-<a href="#contact"><img src="https://img.shields.io/badge/Contact-0E7490?style=flat-square" alt="Contact"/></a>
+<a href="#about"><img src="https://img.shields.io/badge/About-000000?style=flat-square" alt="About"/></a>
+<a href="#services"><img src="https://img.shields.io/badge/Services-000000?style=flat-square" alt="Services"/></a>
+<a href="#stack"><img src="https://img.shields.io/badge/Technologies-000000?style=flat-square" alt="Technologies"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-000000?style=flat-square" alt="Projects"/></a>
+<a href="#repos"><img src="https://img.shields.io/badge/Repositories-000000?style=flat-square" alt="Repositories"/></a>
+<a href="#process"><img src="https://img.shields.io/badge/How_I_Work-000000?style=flat-square" alt="How I Work"/></a>
+<a href="#roadmap"><img src="https://img.shields.io/badge/Roadmap-000000?style=flat-square" alt="Roadmap"/></a>
+<a href="#statistics"><img src="https://img.shields.io/badge/Statistics-000000?style=flat-square" alt="Statistics"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/Contact-000000?style=flat-square" alt="Contact"/></a>
 
 </div>
 
@@ -70,14 +54,18 @@
 ---
 
 <!-- ================================================================== -->
-<!--                            3. ABOUT ME                             -->
+<!--                          2. ABOUT ME                               -->
 <!-- ================================================================== -->
 
 <a id="about"></a>
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About me</h2>
 
-I'm **Shoaib Nawaz**, a Software Engineering student and full-stack web developer from Pakistan.
+<table>
+<tr>
+<td width="62%" valign="middle">
+
+Hello There! I'm **Shoaib Nawaz**, a Software Engineering student and full-stack web developer from Pakistan.
 
 I build practical, responsive web applications with **React.js**, **Node.js** and **PostgreSQL**. My work ranges from business websites and e-commerce stores to admin dashboards and management systems.
 
@@ -91,80 +79,38 @@ I'm now expanding into **AI & Machine Learning**, starting with Python, web scra
 
 > 💬 *"Build with purpose. Learn through practice. Improve every day."*
 
-<br/>
+</td>
+<td width="38%" align="center" valign="middle">
 
-<!-- ================================================================== -->
-<!--                          4. QUICK FACTS                            -->
-<!-- ================================================================== -->
+<img src="./assets/coding.svg" width="320" alt="Developer learning and coding on a laptop"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+🎓 **Software Engineering Student**<br/>
+💼 **Full-Stack Web Developer**<br/>
+📍 **Pakistan**<br/>
+🌱 **Learning Python, Web Scraping, AI & Machine Learning**<br/>
+🤝 **Open to Internships, Freelance Projects and Collaboration**
+
+</div>
+
+<br/>
 
 ### ⚡ Quick Facts
 
 <table>
-<tr>
-<td width="200"><b>👤 Name</b></td>
-<td>Shoaib Nawaz</td>
-</tr>
-<tr>
-<td><b>💼 Role</b></td>
-<td>Full-Stack Web Developer</td>
-</tr>
-<tr>
-<td><b>🎓 Education</b></td>
-<td>Software Engineering Student</td>
-</tr>
-<tr>
-<td><b>📍 Location</b></td>
-<td>Pakistan</td>
-</tr>
-<tr>
-<td><b>🔭 Currently Building</b></td>
-<td>Full-stack business applications and admin dashboards</td>
-</tr>
-<tr>
-<td><b>🌱 Currently Learning</b></td>
-<td>Python, Web Scraping, AI & Machine Learning</td>
-</tr>
-<tr>
-<td><b>🤝 Open To</b></td>
-<td>Internships, freelance projects and collaboration</td>
-</tr>
-<tr>
-<td><b>📫 Reach Me</b></td>
-<td><a href="mailto:shoaibmhr895@gmail.com">shoaibmhr895@gmail.com</a></td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ================================================================== -->
-<!--                  5. DEVELOPER STICKER (LEARNING)                   -->
-<!--         Needs the file assets/coding.svg in the same repo          -->
-<!-- ================================================================== -->
-
-<table>
-<tr>
-<td width="45%" align="center" valign="middle">
-
-<img src="./assets/coding.svg" width="400" alt="Developer learning and coding on a laptop"/>
-
-</td>
-<td width="55%" valign="middle">
-
-<h3>💻 Always Learning. Always Building.</h3>
-
-<p>Most of my time goes into writing code, building real projects and learning new technologies, one step at a time.</p>
-
-<img src="https://img.shields.io/badge/Currently-Learning_Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Learning Python"/>
-<img src="https://img.shields.io/badge/Exploring-AI_%26_ML-F59E0B?style=flat-square&logo=tensorflow&logoColor=white" alt="Exploring AI and ML"/>
-<img src="https://img.shields.io/badge/Building-Full--Stack_Apps-7C3AED?style=flat-square&logo=react&logoColor=white" alt="Building Full-Stack Apps"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Coffee-Required-6F4E37?style=flat-square&logo=buymeacoffee&logoColor=white" alt="Coffee required"/>
-<img src="https://img.shields.io/badge/Bugs-Fixing_Daily-EF4444?style=flat-square&logo=bugsnag&logoColor=white" alt="Fixing bugs daily"/>
-
-</td>
-</tr>
+<tr><td width="200"><b>👤 Name</b></td><td>Shoaib Nawaz</td></tr>
+<tr><td><b>💼 Role</b></td><td>Full-Stack Web Developer</td></tr>
+<tr><td><b>🎓 Education</b></td><td>Software Engineering Student</td></tr>
+<tr><td><b>📍 Location</b></td><td>Pakistan</td></tr>
+<tr><td><b>🔭 Currently Building</b></td><td>Full-stack business applications and admin dashboards</td></tr>
+<tr><td><b>🌱 Currently Learning</b></td><td>Python, Web Scraping, AI & Machine Learning</td></tr>
+<tr><td><b>🤝 Open To</b></td><td>Internships, freelance projects and collaboration</td></tr>
+<tr><td><b>📫 Reach Me</b></td><td><a href="mailto:shoaibmhr895@gmail.com">shoaibmhr895@gmail.com</a></td></tr>
 </table>
 
 <div align="right"><a href="#top">⬆️ Back to top</a></div>
@@ -172,10 +118,10 @@ I'm now expanding into **AI & Machine Learning**, starting with Python, web scra
 ---
 
 <!-- ================================================================== -->
-<!--                          6. WHAT I DO                              -->
+<!--                          3. WHAT I DO                              -->
 <!-- ================================================================== -->
 
-## 🚀 What I Do
+<h2 align="center">🚀 What I Do</h2>
 
 <table>
 <tr>
@@ -214,17 +160,15 @@ Business portals, management panels and e-commerce platforms.
 </tr>
 </table>
 
-<br/>
-
 ---
 
 <!-- ================================================================== -->
-<!--                           7. SERVICES                              -->
+<!--                           4. SERVICES                              -->
 <!-- ================================================================== -->
 
 <a id="services"></a>
 
-## 💼 Services I Can Help With
+<h2 align="center">💼 Services I Can Help With</h2>
 
 <table>
 <tr>
@@ -284,7 +228,7 @@ Complete applications where the frontend, backend and database work together.
 <div align="center">
 
 <a href="mailto:shoaibmhr895@gmail.com?subject=Project%20Inquiry">
-  <img src="https://img.shields.io/badge/Have_a_Project%3F-Let's_Talk-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Project Inquiry"/>
+  <img src="https://img.shields.io/badge/Have_a_Project%3F-Let's_Talk-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Project Inquiry"/>
 </a>
 
 </div>
@@ -294,58 +238,52 @@ Complete applications where the frontend, backend and database work together.
 ---
 
 <!-- ================================================================== -->
-<!--                          8. TECH STACK                             -->
+<!--                        5. TECHNOLOGIES                             -->
 <!-- ================================================================== -->
 
 <a id="stack"></a>
 
-## 🛠️ Tech Stack
+<h2 align="center">⚙️ Technologies</h2>
 
-<table>
-<tr>
-<td width="170"><b>🌐 Frontend</b></td>
-<td>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</td>
-</tr>
-<tr>
-<td><b>⚙️ Backend</b></td>
-<td>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-</td>
-</tr>
-<tr>
-<td><b>🗄️ Database</b></td>
-<td>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</td>
-</tr>
-<tr>
-<td><b>🤖 AI / Data</b></td>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Web_Scraping-0891B2?style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="Web Scraping"/>
-<img src="https://img.shields.io/badge/Machine_Learning-Learning-F59E0B?style=for-the-badge" alt="Machine Learning"/>
-</td>
-</tr>
-<tr>
-<td><b>🧰 Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</td>
-</tr>
-</table>
+<div align="center">
+
+<b>🌐 Frontend</b><br/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/TAILWIND_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/BOOTSTRAP-000000?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+
+<br/><br/>
+
+<b>⚙️ Backend</b><br/>
+<img src="https://img.shields.io/badge/NODE.JS-000000?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/DJANGO-000000?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+
+<br/><br/>
+
+<b>🗄️ Database</b><br/>
+<img src="https://img.shields.io/badge/POSTGRESQL-000000?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
+<br/><br/>
+
+<b>🤖 AI / Data</b><br/>
+<img src="https://img.shields.io/badge/PYTHON-000000?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/WEB_SCRAPING-000000?style=flat-square&logo=beautifulsoup&logoColor=white" alt="Web Scraping"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-Learning-000000?style=flat-square" alt="Machine Learning"/>
+
+<br/><br/>
+
+<b>🧰 Tools</b><br/>
+<img src="https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_CODE-000000?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/FIGMA-000000?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/POSTMAN-000000?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+
+</div>
 
 <br/>
 
@@ -399,14 +337,12 @@ Data Analysis
 ---
 
 <!-- ================================================================== -->
-<!--                       9. FEATURED PROJECTS                         -->
+<!--                       6. FEATURED PROJECTS                         -->
 <!-- ================================================================== -->
 
 <a id="projects"></a>
 
-## 🌟 Featured Projects
-
-<br/>
+<h2 align="center">🌟 Featured Projects</h2>
 
 <!-- ---------------------- PROJECT 1: FRUITKHA ---------------------- -->
 
@@ -430,19 +366,19 @@ A full-stack e-commerce store that provides a complete web-based shopping experi
 
 **Tech Used**
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Type-Full--Stack-7C3AED?style=flat-square" alt="Full-Stack"/>
-<img src="https://img.shields.io/badge/Category-E--Commerce-0891B2?style=flat-square" alt="E-Commerce"/>
+<img src="https://img.shields.io/badge/Type-Full--Stack-374151?style=flat-square" alt="Full-Stack"/>
+<img src="https://img.shields.io/badge/Category-E--Commerce-374151?style=flat-square" alt="E-Commerce"/>
 
 <br/><br/>
 
 <a href="https://github.com/mabdullahw70-tech/my-project">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Fruitkha Repo"/>
+  <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" alt="Fruitkha Repo"/>
 </a>
 
 </td>
@@ -473,19 +409,19 @@ A live, frontend-focused business website built with React.js. It showcases the 
 
 **Tech Used**
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/WhatsApp-000000?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square" alt="Live"/>
-<img src="https://img.shields.io/badge/Category-Business_Website-0891B2?style=flat-square" alt="Business Website"/>
+<img src="https://img.shields.io/badge/Status-Live-374151?style=flat-square" alt="Live"/>
+<img src="https://img.shields.io/badge/Category-Business_Website-374151?style=flat-square" alt="Business Website"/>
 
 <br/><br/>
 
 <a href="https://artbyadeel.com">
-  <img src="https://img.shields.io/badge/Visit_Live_Website-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website"/>
+  <img src="https://img.shields.io/badge/Visit_Live_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website"/>
 </a>
 
 </td>
@@ -516,18 +452,18 @@ A frontend dashboard project built with React.js, focused on dashboard layouts, 
 
 **Tech Used**
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Type-Dashboard-7C3AED?style=flat-square" alt="Dashboard"/>
-<img src="https://img.shields.io/badge/Category-Restaurant-0891B2?style=flat-square" alt="Restaurant"/>
+<img src="https://img.shields.io/badge/Type-Dashboard-374151?style=flat-square" alt="Dashboard"/>
+<img src="https://img.shields.io/badge/Category-Restaurant-374151?style=flat-square" alt="Restaurant"/>
 
 <br/><br/>
 
 <a href="https://github.com/shoaibmhr/NexDine">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="NexDine Repo"/>
+  <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" alt="NexDine Repo"/>
 </a>
 
 </td>
@@ -558,18 +494,18 @@ A full-stack coffee shop website built with React.js on the frontend and Node.js
 
 **Tech Used**
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Type-Full--Stack-7C3AED?style=flat-square" alt="Full-Stack"/>
-<img src="https://img.shields.io/badge/Category-Food_%26_Beverage-0891B2?style=flat-square" alt="Food and Beverage"/>
+<img src="https://img.shields.io/badge/Type-Full--Stack-374151?style=flat-square" alt="Full-Stack"/>
+<img src="https://img.shields.io/badge/Category-Food_%26_Beverage-374151?style=flat-square" alt="Food and Beverage"/>
 
 <br/><br/>
 
 <a href="https://github.com/ashtechdigitalsolutions/coffee_website">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="BlendBrew Repo"/>
+  <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" alt="BlendBrew Repo"/>
 </a>
 
 </td>
@@ -599,18 +535,18 @@ A restaurant website with a management system designed to handle restaurant oper
 
 **Tech Used**
 
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Type-Management_System-7C3AED?style=flat-square" alt="Management System"/>
-<img src="https://img.shields.io/badge/Category-Restaurant-0891B2?style=flat-square" alt="Restaurant"/>
+<img src="https://img.shields.io/badge/Type-Management_System-374151?style=flat-square" alt="Management System"/>
+<img src="https://img.shields.io/badge/Category-Restaurant-374151?style=flat-square" alt="Restaurant"/>
 
 <br/><br/>
 
 <a href="https://github.com/shoaibmhr/Sarab">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sarab Repo"/>
+  <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" alt="Sarab Repo"/>
 </a>
 
 </td>
@@ -622,7 +558,7 @@ A restaurant website with a management system designed to handle restaurant oper
 <br/>
 
 <a href="https://github.com/shoaibmhr?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_All_Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
+  <img src="https://img.shields.io/badge/Explore_All_Repositories-000000?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
 </a>
 
 </div>
@@ -632,34 +568,34 @@ A restaurant website with a management system designed to handle restaurant oper
 ---
 
 <!-- ================================================================== -->
-<!--                     10. REPOSITORY SHOWCASE                        -->
+<!--                     7. REPOSITORY SHOWCASE                         -->
 <!-- ================================================================== -->
 
 <a id="repos"></a>
 
-## 📌 Repository Showcase
+<h2 align="center">📌 Repository Showcase</h2>
 
 <div align="center">
 
 <a href="https://github.com/shoaibmhr/NexDine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=NexDine&theme=tokyonight&hide_border=true" alt="NexDine"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=NexDine&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff" alt="NexDine"/>
 </a>
 <a href="https://github.com/shoaibmhr/Sarab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=Sarab&theme=tokyonight&hide_border=true" alt="Sarab"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=Sarab&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff" alt="Sarab"/>
 </a>
 
 <a href="https://github.com/shoaibmhr/raw-material-website-pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=raw-material-website-pro&theme=tokyonight&hide_border=true" alt="raw-material-website-pro"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=raw-material-website-pro&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff" alt="raw-material-website-pro"/>
 </a>
 <a href="https://github.com/shoaibmhr/raw-material-marketplace-design">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=raw-material-marketplace-design&theme=tokyonight&hide_border=true" alt="raw-material-marketplace-design"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=raw-material-marketplace-design&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff" alt="raw-material-marketplace-design"/>
 </a>
 
 <a href="https://github.com/shoaibmhr/Textutils-reactapp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=Textutils-reactapp&theme=tokyonight&hide_border=true" alt="Textutils-reactapp"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=Textutils-reactapp&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff" alt="Textutils-reactapp"/>
 </a>
 <a href="https://github.com/shoaibmhr/ShoaibcoderBootstrap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=ShoaibcoderBootstrap&theme=tokyonight&hide_border=true" alt="ShoaibcoderBootstrap"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=ShoaibcoderBootstrap&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff" alt="ShoaibcoderBootstrap"/>
 </a>
 
 </div>
@@ -669,12 +605,12 @@ A restaurant website with a management system designed to handle restaurant oper
 ---
 
 <!-- ================================================================== -->
-<!--                        11. HOW I WORK                              -->
+<!--                        8. HOW I WORK                               -->
 <!-- ================================================================== -->
 
 <a id="process"></a>
 
-## 🔄 How I Work
+<h2 align="center">🔄 How I Work</h2>
 
 ```mermaid
 flowchart LR
@@ -683,11 +619,11 @@ flowchart LR
     C --> D["4. Test<br/>and refine"]
     D --> E["5. Deliver<br/>and support"]
 
-    style A fill:#0E7490,stroke:#22D3EE,color:#fff
-    style B fill:#0E7490,stroke:#22D3EE,color:#fff
-    style C fill:#0E7490,stroke:#22D3EE,color:#fff
-    style D fill:#0E7490,stroke:#22D3EE,color:#fff
-    style E fill:#0E7490,stroke:#22D3EE,color:#fff
+    style A fill:#000000,stroke:#ffffff,color:#fff
+    style B fill:#000000,stroke:#ffffff,color:#fff
+    style C fill:#000000,stroke:#ffffff,color:#fff
+    style D fill:#000000,stroke:#ffffff,color:#fff
+    style E fill:#000000,stroke:#ffffff,color:#fff
 ```
 
 <br/>
@@ -753,12 +689,12 @@ Hand over a working product and stay available for improvements.
 ---
 
 <!-- ================================================================== -->
-<!--                        12. LEARNING ROADMAP                        -->
+<!--                        9. LEARNING ROADMAP                         -->
 <!-- ================================================================== -->
 
 <a id="roadmap"></a>
 
-## 🗺️ Learning Roadmap
+<h2 align="center">🗺️ Learning Roadmap</h2>
 
 ```mermaid
 flowchart LR
@@ -769,16 +705,16 @@ flowchart LR
     E --> F["Machine Learning"]
     F --> G["AI-Powered Web Apps"]
 
-    style A fill:#0E7490,stroke:#22D3EE,color:#fff
-    style B fill:#0E7490,stroke:#22D3EE,color:#fff
-    style C fill:#0E7490,stroke:#22D3EE,color:#fff
-    style D fill:#0E7490,stroke:#22D3EE,color:#fff
-    style E fill:#B45309,stroke:#F59E0B,color:#fff
-    style F fill:#334155,stroke:#64748B,color:#fff
-    style G fill:#334155,stroke:#64748B,color:#fff
+    style A fill:#000000,stroke:#ffffff,color:#fff
+    style B fill:#000000,stroke:#ffffff,color:#fff
+    style C fill:#000000,stroke:#ffffff,color:#fff
+    style D fill:#000000,stroke:#ffffff,color:#fff
+    style E fill:#4b5563,stroke:#ffffff,color:#fff
+    style F fill:#1f2937,stroke:#6b7280,color:#fff
+    style G fill:#1f2937,stroke:#6b7280,color:#fff
 ```
 
-> 🔵 Completed &nbsp;|&nbsp; 🟠 In progress &nbsp;|&nbsp; ⚫ Up next
+> ⚫ Completed &nbsp;|&nbsp; ⚪ In progress &nbsp;|&nbsp; 🔘 Up next
 
 <br/>
 
@@ -799,10 +735,10 @@ flowchart LR
 ---
 
 <!-- ================================================================== -->
-<!--                        13. CURRENT FOCUS                           -->
+<!--                        10. CURRENT FOCUS                           -->
 <!-- ================================================================== -->
 
-## 🎯 Current Focus
+<h2 align="center">🎯 Current Focus</h2>
 
 <table>
 <tr>
@@ -869,32 +805,36 @@ If you're hiring for an internship or junior role, or need a developer for a fre
 ---
 
 <!-- ================================================================== -->
-<!--                       14. GITHUB ANALYTICS                         -->
+<!--                        11. STATISTICS                              -->
 <!-- ================================================================== -->
 
-<a id="analytics"></a>
+<a id="statistics"></a>
 
-## 📈 GitHub Analytics
+<h2 align="center">📈 Statistics</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shoaibmhr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibmhr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shoaibmhr&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff&rank_icon=github&count_private=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibmhr&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=ffffff&langs_count=6" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=shoaibmhr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=shoaibmhr&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9ca3af&stroke=ffffff" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibmhr&bg_color=000000&color=ffffff&line=ffffff&point_color=ffffff&area=true&area_color=ffffff&hide_border=false&title=Shoaib's%20Contribution%20Graph" alt="Contribution Graph"/>
 
 <br/><br/>
 
 <a href="https://github.com/shoaibmhr?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View_All-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/Repositories-View_All-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 <a href="https://github.com/shoaibmhr?tab=followers">
-  <img src="https://img.shields.io/github/followers/shoaibmhr?style=for-the-badge&logo=github&logoColor=white&color=0E7490&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/shoaibmhr?style=for-the-badge&logo=github&logoColor=white&color=000000&label=Followers" alt="Followers"/>
 </a>
 <a href="https://github.com/shoaibmhr?tab=stars">
-  <img src="https://img.shields.io/badge/Stars-Explore-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Stars-Explore-000000?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
 </a>
 
 </div>
@@ -904,12 +844,12 @@ If you're hiring for an internship or junior role, or need a developer for a fre
 ---
 
 <!-- ================================================================== -->
-<!--                          15. CONTACT                               -->
+<!--                          12. CONTACT                               -->
 <!-- ================================================================== -->
 
 <a id="contact"></a>
 
-## 🤝 Let's Connect
+<h2 align="center">🤝 Let's Connect</h2>
 
 I'm open to **internships**, **freelance work** and **collaboration** on meaningful projects. If you have an idea, a project or an opportunity, feel free to reach out.
 
@@ -923,7 +863,7 @@ I'm open to **internships**, **freelance work** and **collaboration** on meaning
 Connect with me professionally.
 
 <a href="https://www.linkedin.com/in/shoaib-nawaz-tech">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </td>
@@ -935,7 +875,7 @@ Connect with me professionally.
 Send me a message directly.
 
 <a href="mailto:shoaibmhr895@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-Send_Message-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </td>
@@ -947,7 +887,7 @@ Send me a message directly.
 Follow my work and projects.
 
 <a href="https://github.com/shoaibmhr">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </td>
@@ -962,16 +902,16 @@ Follow my work and projects.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=22D3EE&center=true&vCenter=true&width=700&height=40&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+build+something+great+together.;Build+with+purpose.+Learn+through+practice.+Improve+every+day." alt="Footer typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together.;Build+with+purpose.+Learn+through+practice.+Improve+every+day." alt="Footer typing animation"/>
 
 <br/>
 
 <a href="#top">
-  <img src="https://img.shields.io/badge/%E2%AC%86%EF%B8%8F_Back_to_Top-0891B2?style=for-the-badge" alt="Back to top"/>
+  <img src="https://img.shields.io/badge/%E2%AC%86%EF%B8%8F_Back_to_Top-000000?style=for-the-badge" alt="Back to top"/>
 </a>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:06B6D4,50:0E7490,100:0F172A&section=footer" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:6b7280,50:1f2937,100:000000&section=footer" alt="Footer"/>
 
 </div>
