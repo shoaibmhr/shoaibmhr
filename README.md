@@ -137,33 +137,35 @@ I'm now expanding into **AI & Machine Learning**, starting with Python, web scra
 <br/>
 
 <!-- ================================================================== -->
-<!--                        5. TERMINAL / CODE BLOCK                    -->
+<!--                  5. DEVELOPER STICKER (LEARNING)                   -->
+<!--   Upload your sticker as assets/coding.gif (or coding.png) first   -->
 <!-- ================================================================== -->
 
-```js
-const shoaib = {
-  name: "Shoaib Nawaz",
-  role: "Software Engineering Student & Full-Stack Developer",
-  location: "Pakistan",
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
 
-  stack: {
-    frontend: ["React.js", "JavaScript", "Tailwind CSS", "Bootstrap"],
-    backend: ["Node.js", "Express.js", "Django"],
-    database: ["PostgreSQL"],
-    tools: ["Git", "GitHub", "VS Code", "Figma", "Postman"],
-  },
+<img src="./assets/coding.gif" width="380" alt="Developer learning and coding on a laptop"/>
 
-  currentlyLearning: ["Python", "Web Scraping", "AI & Machine Learning"],
-  openTo: ["Internships", "Freelance Projects", "Collaboration"],
+</td>
+<td width="55%" valign="middle">
 
-  principles: ["Clean code", "Responsive design", "Real-world value"],
-  motto: "Build with purpose. Learn through practice. Improve every day.",
+<h3>💻 Always Learning. Always Building.</h3>
 
-  getInTouch() {
-    return "shoaibmhr895@gmail.com";
-  },
-};
-```
+<p>Most of my time goes into writing code, building real projects and learning new technologies, one step at a time.</p>
+
+<img src="https://img.shields.io/badge/Currently-Learning_Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Learning Python"/>
+<img src="https://img.shields.io/badge/Exploring-AI_%26_ML-F59E0B?style=flat-square&logo=tensorflow&logoColor=white" alt="Exploring AI and ML"/>
+<img src="https://img.shields.io/badge/Building-Full--Stack_Apps-7C3AED?style=flat-square&logo=react&logoColor=white" alt="Building Full-Stack Apps"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Coffee-Required-6F4E37?style=flat-square&logo=buymeacoffee&logoColor=white" alt="Coffee required"/>
+<img src="https://img.shields.io/badge/Bugs-Fixing_Daily-EF4444?style=flat-square&logo=bugsnag&logoColor=white" alt="Fixing bugs daily"/>
+
+</td>
+</tr>
+</table>
 
 <div align="right"><a href="#top">⬆️ Back to top</a></div>
 
