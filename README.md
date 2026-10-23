@@ -221,10 +221,6 @@ Data Analysis
 
 <br/><br/>
 
-<img src="./assets/contribution-graph.svg" width="90%" alt="Shoaib's Contribution Graph"/>
-
-<br/><br/>
-
 <img src="https://ghchart.rshah.org/9ca3af/shoaibmhr" alt="Contribution Calendar" width="90%"/>
 
 <br/><br/>
