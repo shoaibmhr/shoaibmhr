@@ -1,89 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" fill="none" role="img" aria-label="Shoaib Nawaz - Full-Stack Web Developer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Welcome to Shoaib's Github">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="320" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0B1220"/>
-      <stop offset="0.55" stop-color="#0C3345"/>
-      <stop offset="1" stop-color="#0E7490"/>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="0.6" stop-color="#0b0b0d"/>
+      <stop offset="1" stop-color="#1c1c20"/>
     </linearGradient>
-    <linearGradient id="nameGrad" x1="50" y1="0" x2="440" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#FFFFFF"/>
-      <stop offset="1" stop-color="#67E8F9"/>
+    <linearGradient id="dune1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8a8a90"/>
+      <stop offset="1" stop-color="#2a2a2e"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" stroke="#22D3EE" stroke-opacity="0.08" stroke-width="1"/>
-    </pattern>
+    <linearGradient id="dune2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a4a50"/>
+      <stop offset="1" stop-color="#0d0d0f"/>
+    </linearGradient>
+    <linearGradient id="road" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.95"/>
+    </linearGradient>
+    <clipPath id="reveal">
+      <rect x="0" y="60" width="0" height="70">
+        <animate attributeName="width" from="0" to="1000" dur="2.4s" begin="0.3s" fill="freeze"/>
+      </rect>
+    </clipPath>
   </defs>
 
-  <style>
-    .mono { font-family: 'Fira Code', 'JetBrains Mono', Consolas, Menlo, 'Courier New', monospace; }
-    .sans { font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; }
-    .f1 { animation: float 6s ease-in-out infinite; }
-    .f2 { animation: float 8s ease-in-out infinite reverse; }
-    .f3 { animation: float 7s ease-in-out infinite; }
-    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
-    .c1 { animation: cycle 9s linear infinite backwards; }
-    .c2 { animation: cycle 9s linear 3s infinite backwards; }
-    .c3 { animation: cycle 9s linear 6s infinite backwards; }
-    @keyframes cycle { 0% { opacity: 0; } 4% { opacity: 1; } 30% { opacity: 1; } 34% { opacity: 0; } 100% { opacity: 0; } }
-    .cursor { animation: blink 1s steps(1) infinite; }
-    @keyframes blink { 50% { opacity: 0; } }
-  </style>
+  <!-- background -->
+  <rect width="1000" height="300" fill="url(#sky)"/>
 
-  <!-- Background -->
-  <rect width="1000" height="320" rx="18" fill="url(#bg)"/>
-  <rect width="1000" height="320" rx="18" fill="url(#grid)"/>
-  <circle cx="750" cy="165" r="240" fill="url(#glow)"/>
-  <rect x="1" y="1" width="998" height="318" rx="17" stroke="#22D3EE" stroke-opacity="0.3" stroke-width="2"/>
-
-  <!-- Floating code symbols -->
-  <g class="mono" fill="#22D3EE" font-size="34" font-weight="700">
-    <text class="f1" x="455" y="62" opacity="0.22">&lt;/&gt;</text>
-    <text class="f2" x="470" y="290" opacity="0.18">{ }</text>
-    <text class="f3" x="500" y="175" opacity="0.15">=&gt;</text>
+  <!-- stars -->
+  <g fill="#ffffff">
+    <circle cx="80" cy="40" r="1.2" opacity="0.8"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="190" cy="85" r="1" opacity="0.6"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="310" cy="30" r="1.4" opacity="0.7"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="470" cy="22" r="1" opacity="0.6"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="640" cy="35" r="1.3" opacity="0.8"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="90" r="1" opacity="0.5"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="4.2s" repeatCount="indefinite"/></circle>
+    <circle cx="880" cy="45" r="1.5" opacity="0.8"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="940" cy="110" r="1" opacity="0.6"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="2.6s" repeatCount="indefinite"/></circle>
   </g>
 
-  <!-- Left side text -->
-  <text class="mono" x="50" y="72" font-size="15" fill="#22D3EE"><tspan fill="#64748B">$</tspan> whoami</text>
-  <text class="sans" x="50" y="140" font-size="60" font-weight="800" fill="url(#nameGrad)">Shoaib Nawaz</text>
-  <text class="sans" x="52" y="180" font-size="17" fill="#CBD5E1">Software Engineering Student  |  Full-Stack Developer</text>
+  <!-- back dune -->
+  <path d="M0 215 C120 170 230 195 340 200 C460 205 520 150 640 160 C760 170 860 205 1000 180 L1000 300 L0 300 Z" fill="url(#dune1)" opacity="0.85"/>
+  <!-- front dune -->
+  <path d="M0 255 C140 225 260 245 380 238 C520 230 600 205 740 220 C850 232 930 250 1000 240 L1000 300 L0 300 Z" fill="url(#dune2)"/>
 
-  <!-- Cycling tagline -->
-  <text class="mono" x="52" y="222" font-size="16" fill="#64748B">&gt;</text>
-  <text class="mono c1" x="72" y="222" font-size="16" fill="#67E8F9">React.js &#8226; Node.js &#8226; PostgreSQL</text>
-  <text class="mono c2" x="72" y="222" font-size="16" fill="#67E8F9">Building real-world web applications</text>
-  <text class="mono c3" x="72" y="222" font-size="16" fill="#67E8F9">Now exploring AI &amp; Machine Learning</text>
+  <!-- winding road -->
+  <path d="M520 300 C540 280 470 262 500 242 C535 220 585 232 560 205 C540 184 585 176 600 162 C610 152 640 150 662 158 C640 160 625 166 615 176 C600 192 565 196 585 214 C612 238 548 244 520 262 C500 276 560 288 575 300 Z" fill="url(#road)"/>
 
-  <!-- Tech pills -->
-  <g class="sans" font-size="13" text-anchor="middle" fill="#E2E8F0">
-    <rect x="50" y="250" width="72" height="28" rx="14" fill="#0F172A" fill-opacity="0.65" stroke="#22D3EE" stroke-opacity="0.5"/>
-    <text x="86" y="269">React</text>
-    <rect x="132" y="250" width="82" height="28" rx="14" fill="#0F172A" fill-opacity="0.65" stroke="#22D3EE" stroke-opacity="0.5"/>
-    <text x="173" y="269">Node.js</text>
-    <rect x="224" y="250" width="100" height="28" rx="14" fill="#0F172A" fill-opacity="0.65" stroke="#22D3EE" stroke-opacity="0.5"/>
-    <text x="274" y="269">PostgreSQL</text>
-    <rect x="334" y="250" width="72" height="28" rx="14" fill="#0F172A" fill-opacity="0.65" stroke="#F59E0B" stroke-opacity="0.7"/>
-    <text x="370" y="269" fill="#FCD34D">AI / ML</text>
+  <!-- title text with typing reveal -->
+  <g clip-path="url(#reveal)">
+    <text x="500" y="108" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="38" font-weight="500" fill="#ffffff" letter-spacing="1">Welcome to Shoaib's Github &lt;/&gt;</text>
   </g>
 
-  <!-- Code window -->
-  <rect x="545" y="48" width="410" height="224" rx="14" fill="#0B1220" fill-opacity="0.92" stroke="#22D3EE" stroke-opacity="0.35"/>
-  <path d="M545 62 A14 14 0 0 1 559 48 H941 A14 14 0 0 1 955 62 V82 H545 Z" fill="#111C30"/>
-  <circle cx="567" cy="65" r="5" fill="#F87171"/>
-  <circle cx="585" cy="65" r="5" fill="#FBBF24"/>
-  <circle cx="603" cy="65" r="5" fill="#34D399"/>
-  <text class="mono" x="750" y="69" font-size="12" fill="#64748B" text-anchor="middle">developer.js</text>
+  <!-- subtitle -->
+  <text x="500" y="138" text-anchor="middle" font-family="'Fira Code','Courier New',monospace" font-size="16" fill="#9ca3af" opacity="0">
+    Software Engineering Student • Full-Stack Web Developer
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2.4s" fill="freeze"/>
+  </text>
 
-  <g class="mono" font-size="14">
-    <text x="569" y="112"><tspan fill="#C084FC">const</tspan> <tspan fill="#7DD3FC">shoaib</tspan> <tspan fill="#94A3B8">= {</tspan></text>
-    <text x="589" y="138"><tspan fill="#E2E8F0">role:</tspan> <tspan fill="#86EFAC">"Full-Stack Developer"</tspan><tspan fill="#94A3B8">,</tspan></text>
-    <text x="589" y="164"><tspan fill="#E2E8F0">stack:</tspan> <tspan fill="#86EFAC">["React", "Node", "PostgreSQL"]</tspan><tspan fill="#94A3B8">,</tspan></text>
-    <text x="589" y="190"><tspan fill="#E2E8F0">learning:</tspan> <tspan fill="#86EFAC">"AI &amp; ML"</tspan><tspan fill="#94A3B8">,</tspan></text>
-    <text x="589" y="216"><tspan fill="#E2E8F0">openToWork:</tspan> <tspan fill="#FBBF24">true</tspan><tspan fill="#94A3B8">,</tspan></text>
-    <text x="569" y="242" fill="#94A3B8">};</text>
-    <rect class="cursor" x="592" y="230" width="8" height="16" fill="#22D3EE"/>
-  </g>
+  <!-- blinking cursor -->
+  <rect x="0" y="78" width="3" height="40" fill="#ffffff">
+    <animate attributeName="x" from="95" to="905" dur="2.4s" begin="0.3s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+    <set attributeName="display" to="none" begin="2.9s"/>
+  </rect>
 </svg>
