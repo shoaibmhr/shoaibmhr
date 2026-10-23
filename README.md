@@ -221,7 +221,11 @@ Data Analysis
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibmhr&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&title_color=ffffff&custom_title=Shoaib's%20Contribution%20Graph" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibmhr&theme=react-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&custom_title=Shoaib%20Contribution%20Graph" alt="Contribution Graph"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/9ca3af/shoaibmhr" alt="Contribution Calendar" width="90%"/>
 
 <br/><br/>
 
