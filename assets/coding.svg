@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="340" viewBox="0 0 480 340" fill="none" role="img" aria-label="Developer laptop on a desk, learning and coding">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="480" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#0C3A4E"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="screenGlow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: 'Fira Code', Consolas, Menlo, 'Courier New', monospace; }
+    .f1 { animation: float 6s ease-in-out infinite; }
+    .f2 { animation: float 8s ease-in-out infinite reverse; }
+    .f3 { animation: float 7s ease-in-out infinite; }
+    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .steam { animation: steam 3s ease-in-out infinite; }
+    .steam2 { animation: steam 3s ease-in-out 1.2s infinite; }
+    @keyframes steam { 0% { opacity: 0; transform: translateY(6px); } 50% { opacity: 0.7; } 100% { opacity: 0; transform: translateY(-8px); } }
+    .l1 { animation: type 6s ease-in-out infinite; }
+    .l2 { animation: type 6s ease-in-out 0.5s infinite; }
+    .l3 { animation: type 6s ease-in-out 1s infinite; }
+    .l4 { animation: type 6s ease-in-out 1.5s infinite; }
+    .l5 { animation: type 6s ease-in-out 2s infinite; }
+    @keyframes type { 0% { opacity: 0; } 12% { opacity: 1; } 85% { opacity: 1; } 100% { opacity: 0; } }
+  </style>
+
+  <!-- Background -->
+  <rect width="480" height="340" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="478" height="338" rx="17" stroke="#22D3EE" stroke-opacity="0.3" stroke-width="2"/>
+  <circle cx="240" cy="170" r="190" fill="url(#glow)"/>
+
+  <!-- Floating symbols -->
+  <g class="mono" fill="#22D3EE" font-size="26" font-weight="700">
+    <text class="f1" x="30" y="70" opacity="0.35">&lt;/&gt;</text>
+    <text class="f2" x="400" y="60" opacity="0.3">{ }</text>
+    <text class="f3" x="410" y="140" opacity="0.25">=&gt;</text>
+    <text class="f2" x="40" y="150" opacity="0.25">( )</text>
+  </g>
+
+  <!-- Desk -->
+  <rect x="0" y="272" width="480" height="68" fill="#10243A"/>
+  <rect x="0" y="272" width="480" height="6" fill="#1E3A52"/>
+
+  <!-- Laptop screen -->
+  <rect x="120" y="100" width="240" height="160" rx="10" fill="#1F2937" stroke="#334155" stroke-width="2"/>
+  <rect x="131" y="111" width="218" height="138" rx="4" fill="#0B1220"/>
+  <rect x="131" y="111" width="218" height="138" rx="4" fill="url(#screenGlow)"/>
+
+  <!-- Code lines on screen -->
+  <g>
+    <rect class="l1" x="143" y="124" width="46" height="7" rx="3" fill="#C084FC"/>
+    <rect class="l1" x="195" y="124" width="62" height="7" rx="3" fill="#7DD3FC"/>
+
+    <rect class="l2" x="157" y="140" width="38" height="7" rx="3" fill="#86EFAC"/>
+    <rect class="l2" x="201" y="140" width="84" height="7" rx="3" fill="#E2E8F0" fill-opacity="0.8"/>
+
+    <rect class="l3" x="157" y="156" width="70" height="7" rx="3" fill="#FBBF24"/>
+    <rect class="l3" x="233" y="156" width="44" height="7" rx="3" fill="#7DD3FC"/>
+
+    <rect class="l4" x="157" y="172" width="54" height="7" rx="3" fill="#86EFAC"/>
+    <rect class="l4" x="217" y="172" width="90" height="7" rx="3" fill="#E2E8F0" fill-opacity="0.8"/>
+
+    <rect class="l5" x="143" y="188" width="32" height="7" rx="3" fill="#C084FC"/>
+    <rect class="l5" x="181" y="188" width="52" height="7" rx="3" fill="#7DD3FC"/>
+
+    <rect class="cursor" x="143" y="206" width="8" height="12" fill="#22D3EE"/>
+  </g>
+
+  <!-- Laptop base -->
+  <path d="M100 262 H380 L392 272 H88 Z" fill="#334155"/>
+  <rect x="215" y="262" width="50" height="5" rx="2.5" fill="#1F2937"/>
+
+  <!-- Coffee mug -->
+  <rect x="396" y="236" width="40" height="36" rx="7" fill="#F1F5F9"/>
+  <path d="M436 245 h7 a8 8 0 0 1 0 18 h-7" stroke="#F1F5F9" stroke-width="5" fill="none"/>
+  <rect x="396" y="236" width="40" height="9" rx="4" fill="#6F4E37"/>
+  <path class="steam" d="M408 228 q-5 -7 0 -14" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path class="steam2" d="M422 228 q-5 -7 0 -14" stroke="#CBD5E1" stroke-width="3" stroke-linecap="round" fill="none"/>
+
+  <!-- Plant -->
+  <path d="M46 272 L52 240 H80 L86 272 Z" fill="#B45309"/>
+  <rect x="49" y="236" width="34" height="8" rx="3" fill="#D97706"/>
+  <ellipse cx="66" cy="222" rx="9" ry="20" fill="#22C55E"/>
+  <ellipse cx="50" cy="228" rx="8" ry="16" transform="rotate(-30 50 228)" fill="#16A34A"/>
+  <ellipse cx="82" cy="228" rx="8" ry="16" transform="rotate(30 82 228)" fill="#16A34A"/>
+
+  <!-- Desk caption -->
+  <text class="mono" x="240" y="310" font-size="14" fill="#67E8F9" text-anchor="middle">Learning. Coding. Building.</text>
+</svg>
