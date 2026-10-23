@@ -38,13 +38,13 @@
 <div align="center">
 
 <a href="#about"><img src="https://img.shields.io/badge/About-000000?style=flat-square" alt="About"/></a>
-<a href="#services"><img src="https://img.shields.io/badge/Services-000000?style=flat-square" alt="Services"/></a>
 <a href="#stack"><img src="https://img.shields.io/badge/Technologies-000000?style=flat-square" alt="Technologies"/></a>
+<a href="#statistics"><img src="https://img.shields.io/badge/Statistics-000000?style=flat-square" alt="Statistics"/></a>
+<a href="#services"><img src="https://img.shields.io/badge/Services-000000?style=flat-square" alt="Services"/></a>
 <a href="#projects"><img src="https://img.shields.io/badge/Projects-000000?style=flat-square" alt="Projects"/></a>
 <a href="#repos"><img src="https://img.shields.io/badge/Repositories-000000?style=flat-square" alt="Repositories"/></a>
 <a href="#process"><img src="https://img.shields.io/badge/How_I_Work-000000?style=flat-square" alt="How I Work"/></a>
 <a href="#roadmap"><img src="https://img.shields.io/badge/Roadmap-000000?style=flat-square" alt="Roadmap"/></a>
-<a href="#statistics"><img src="https://img.shields.io/badge/Statistics-000000?style=flat-square" alt="Statistics"/></a>
 <a href="#contact"><img src="https://img.shields.io/badge/Contact-000000?style=flat-square" alt="Contact"/></a>
 
 </div>
@@ -94,142 +94,8 @@ I'm now expanding into **AI & Machine Learning**, starting with Python, web scra
 💼 **Full-Stack Web Developer**<br/>
 📍 **Pakistan**<br/>
 🌱 **Learning Python, Web Scraping, AI & Machine Learning**<br/>
-🤝 **Open to Internships, Freelance Projects and Collaboration**
-
-</div>
-
-<br/>
-
-### ⚡ Quick Facts
-
-<table>
-<tr><td width="200"><b>👤 Name</b></td><td>Shoaib Nawaz</td></tr>
-<tr><td><b>💼 Role</b></td><td>Full-Stack Web Developer</td></tr>
-<tr><td><b>🎓 Education</b></td><td>Software Engineering Student</td></tr>
-<tr><td><b>📍 Location</b></td><td>Pakistan</td></tr>
-<tr><td><b>🔭 Currently Building</b></td><td>Full-stack business applications and admin dashboards</td></tr>
-<tr><td><b>🌱 Currently Learning</b></td><td>Python, Web Scraping, AI & Machine Learning</td></tr>
-<tr><td><b>🤝 Open To</b></td><td>Internships, freelance projects and collaboration</td></tr>
-<tr><td><b>📫 Reach Me</b></td><td><a href="mailto:shoaibmhr895@gmail.com">shoaibmhr895@gmail.com</a></td></tr>
-</table>
-
-<div align="right"><a href="#top">⬆️ Back to top</a></div>
-
----
-
-<!-- ================================================================== -->
-<!--                          3. WHAT I DO                              -->
-<!-- ================================================================== -->
-
-<h2 align="center">🚀 What I Do</h2>
-
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
-
-### 🎨
-### Frontend Development
-
-Responsive, modern user interfaces built with React.js, Tailwind CSS and Bootstrap.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### ⚙️
-### Backend Development
-
-REST APIs and server-side logic using Node.js, Express.js and Django.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 🗄️
-### Database Design
-
-Structured data storage, relations and queries using PostgreSQL.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 📊
-### Admin Dashboards
-
-Business portals, management panels and e-commerce platforms.
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ================================================================== -->
-<!--                           4. SERVICES                              -->
-<!-- ================================================================== -->
-
-<a id="services"></a>
-
-<h2 align="center">💼 Services I Can Help With</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Business Websites
-
-Professional, fast and mobile-friendly websites that present your business clearly and help customers contact you easily.
-
-* Home, About, Services and Contact pages
-* Responsive layout for mobile, tablet and desktop
-* WhatsApp and contact form integration
-* Clean, modern design
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 E-Commerce Stores
-
-Online stores with product browsing, cart flow and an admin side to manage the catalog.
-
-* Product listing and detail pages
-* Cart and checkout flow
-* Admin management panel
-* Database-backed product data
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Admin Dashboards
-
-Management portals that help teams and business owners handle data in one place.
-
-* Clean dashboard layouts
-* Reusable UI components
-* Tables, forms and data views
-* Connected to a backend and database
-
-</td>
-<td width="50%" valign="top">
-
-### 🔌 Full-Stack Applications
-
-Complete applications where the frontend, backend and database work together.
-
-* React frontend
-* Node.js / Django backend
-* PostgreSQL database
-* REST API integration
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="mailto:shoaibmhr895@gmail.com?subject=Project%20Inquiry">
-  <img src="https://img.shields.io/badge/Have_a_Project%3F-Let's_Talk-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Project Inquiry"/>
-</a>
+🤝 **Open to Internships, Freelance Projects and Collaboration**<br/>
+📫 **<a href="mailto:shoaibmhr895@gmail.com">shoaibmhr895@gmail.com</a>**
 
 </div>
 
@@ -238,7 +104,7 @@ Complete applications where the frontend, backend and database work together.
 ---
 
 <!-- ================================================================== -->
-<!--                        5. TECHNOLOGIES                             -->
+<!--                        3. TECHNOLOGIES                             -->
 <!-- ================================================================== -->
 
 <a id="stack"></a>
@@ -337,7 +203,166 @@ Data Analysis
 ---
 
 <!-- ================================================================== -->
-<!--                       6. FEATURED PROJECTS                         -->
+<!--                        4. STATISTICS                               -->
+<!-- ================================================================== -->
+
+<a id="statistics"></a>
+
+<h2 align="center">📈 Statistics</h2>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shoaibmhr&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff&rank_icon=github&count_private=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibmhr&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=ffffff&langs_count=6" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=shoaibmhr&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9ca3af&stroke=ffffff" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibmhr&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&title_color=ffffff&custom_title=Shoaib's%20Contribution%20Graph" alt="Contribution Graph"/>
+
+<br/><br/>
+
+<a href="https://github.com/shoaibmhr?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View_All-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+<a href="https://github.com/shoaibmhr?tab=followers">
+  <img src="https://img.shields.io/github/followers/shoaibmhr?style=for-the-badge&logo=github&logoColor=white&color=000000&label=Followers" alt="Followers"/>
+</a>
+<a href="https://github.com/shoaibmhr?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-Explore-000000?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+</a>
+
+</div>
+
+<div align="right"><a href="#top">⬆️ Back to top</a></div>
+
+---
+
+<!-- ================================================================== -->
+<!--                          5. WHAT I DO                              -->
+<!-- ================================================================== -->
+
+<h2 align="center">🚀 What I Do</h2>
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+### 🎨
+### Frontend Development
+
+Responsive, modern user interfaces built with React.js, Tailwind CSS and Bootstrap.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### ⚙️
+### Backend Development
+
+REST APIs and server-side logic using Node.js, Express.js and Django.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🗄️
+### Database Design
+
+Structured data storage, relations and queries using PostgreSQL.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 📊
+### Admin Dashboards
+
+Business portals, management panels and e-commerce platforms.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================================================================== -->
+<!--                           6. SERVICES                              -->
+<!-- ================================================================== -->
+
+<a id="services"></a>
+
+<h2 align="center">💼 Services I Can Help With</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Business Websites
+
+Professional, fast and mobile-friendly websites that present your business clearly and help customers contact you easily.
+
+* Home, About, Services and Contact pages
+* Responsive layout for mobile, tablet and desktop
+* WhatsApp and contact form integration
+* Clean, modern design
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 E-Commerce Stores
+
+Online stores with product browsing, cart flow and an admin side to manage the catalog.
+
+* Product listing and detail pages
+* Cart and checkout flow
+* Admin management panel
+* Database-backed product data
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Admin Dashboards
+
+Management portals that help teams and business owners handle data in one place.
+
+* Clean dashboard layouts
+* Reusable UI components
+* Tables, forms and data views
+* Connected to a backend and database
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 Full-Stack Applications
+
+Complete applications where the frontend, backend and database work together.
+
+* React frontend
+* Node.js / Django backend
+* PostgreSQL database
+* REST API integration
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="mailto:shoaibmhr895@gmail.com?subject=Project%20Inquiry">
+  <img src="https://img.shields.io/badge/Have_a_Project%3F-Let's_Talk-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Project Inquiry"/>
+</a>
+
+</div>
+
+<div align="right"><a href="#top">⬆️ Back to top</a></div>
+
+---
+
+<!-- ================================================================== -->
+<!--                       7. FEATURED PROJECTS                         -->
 <!-- ================================================================== -->
 
 <a id="projects"></a>
@@ -568,7 +593,7 @@ A restaurant website with a management system designed to handle restaurant oper
 ---
 
 <!-- ================================================================== -->
-<!--                     7. REPOSITORY SHOWCASE                         -->
+<!--                     8. REPOSITORY SHOWCASE                         -->
 <!-- ================================================================== -->
 
 <a id="repos"></a>
@@ -605,7 +630,7 @@ A restaurant website with a management system designed to handle restaurant oper
 ---
 
 <!-- ================================================================== -->
-<!--                        8. HOW I WORK                               -->
+<!--                        9. HOW I WORK                               -->
 <!-- ================================================================== -->
 
 <a id="process"></a>
@@ -689,7 +714,7 @@ Hand over a working product and stay available for improvements.
 ---
 
 <!-- ================================================================== -->
-<!--                        9. LEARNING ROADMAP                         -->
+<!--                        10. LEARNING ROADMAP                        -->
 <!-- ================================================================== -->
 
 <a id="roadmap"></a>
@@ -735,7 +760,7 @@ flowchart LR
 ---
 
 <!-- ================================================================== -->
-<!--                        10. CURRENT FOCUS                           -->
+<!--                        11. CURRENT FOCUS                           -->
 <!-- ================================================================== -->
 
 <h2 align="center">🎯 Current Focus</h2>
@@ -799,45 +824,6 @@ If you're hiring for an internship or junior role, or need a developer for a fre
 | Database | PostgreSQL |
 
 </details>
-
-<div align="right"><a href="#top">⬆️ Back to top</a></div>
-
----
-
-<!-- ================================================================== -->
-<!--                        11. STATISTICS                              -->
-<!-- ================================================================== -->
-
-<a id="statistics"></a>
-
-<h2 align="center">📈 Statistics</h2>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shoaibmhr&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=ffffff&rank_icon=github&count_private=true" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibmhr&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=ffffff&langs_count=6" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=shoaibmhr&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=9ca3af&stroke=ffffff" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibmhr&bg_color=000000&color=ffffff&line=ffffff&point_color=ffffff&area=true&area_color=ffffff&hide_border=false&title=Shoaib's%20Contribution%20Graph" alt="Contribution Graph"/>
-
-<br/><br/>
-
-<a href="https://github.com/shoaibmhr?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View_All-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
-<a href="https://github.com/shoaibmhr?tab=followers">
-  <img src="https://img.shields.io/github/followers/shoaibmhr?style=for-the-badge&logo=github&logoColor=white&color=000000&label=Followers" alt="Followers"/>
-</a>
-<a href="https://github.com/shoaibmhr?tab=stars">
-  <img src="https://img.shields.io/badge/Stars-Explore-000000?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
-</a>
-
-</div>
 
 <div align="right"><a href="#top">⬆️ Back to top</a></div>
 
