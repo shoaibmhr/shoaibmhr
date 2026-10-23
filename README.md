@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,50:1f2937,100:6b7280&text=Welcome%20to%20Shoaib's%20Github%20%3C%2F%3E&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Software%20Engineering%20Student%20%E2%80%A2%20Full-Stack%20Web%20Developer&descAlignY=60&descSize=17&animation=fadeIn&section=header" alt="Welcome to Shoaib's Github"/>
+<img src="./assets/banner.svg" width="100%" alt="Welcome to Shoaib's Github"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=780&height=40&lines=React.js+%7C+Node.js+%7C+PostgreSQL;Building+real-world+web+applications;Clean+code.+Responsive+design.+Real+results.;Now+exploring+AI+%26+Machine+Learning" alt="Typing animation"/>
 
