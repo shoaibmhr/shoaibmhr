@@ -221,14 +221,6 @@ Data Analysis
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoaibmhr/shoaibmhr/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoaibmhr/shoaibmhr/output/github-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shoaibmhr/shoaibmhr/output/github-snake-dark.svg" width="90%"/>
-</picture>
-
-<br/><br/>
-
 <a href="https://github.com/shoaibmhr?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-View_All-000000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
@@ -883,6 +875,22 @@ Follow my work and projects.
 </td>
 </tr>
 </table>
+
+<br/>
+
+<!-- ================================================================== -->
+<!--                        SNAKE ANIMATION                             -->
+<!-- ================================================================== -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoaibmhr/shoaibmhr/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoaibmhr/shoaibmhr/output/github-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shoaibmhr/shoaibmhr/output/github-snake-dark.svg" width="90%"/>
+</picture>
+
+</div>
 
 <br/>
 
