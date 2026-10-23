@@ -642,24 +642,24 @@ A restaurant website with a management system designed to handle restaurant oper
 <div align="center">
 
 <a href="https://github.com/shoaibmhr/NexDine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=NexDine&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&border_color=21262D" alt="NexDine"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=NexDine&theme=tokyonight&hide_border=true" alt="NexDine"/>
 </a>
 <a href="https://github.com/shoaibmhr/Sarab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=Sarab&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&border_color=21262D" alt="Sarab"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=Sarab&theme=tokyonight&hide_border=true" alt="Sarab"/>
 </a>
 
 <a href="https://github.com/shoaibmhr/raw-material-website-pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=raw-material-website-pro&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&border_color=21262D" alt="raw-material-website-pro"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=raw-material-website-pro&theme=tokyonight&hide_border=true" alt="raw-material-website-pro"/>
 </a>
 <a href="https://github.com/shoaibmhr/raw-material-marketplace-design">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=raw-material-marketplace-design&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&border_color=21262D" alt="raw-material-marketplace-design"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=raw-material-marketplace-design&theme=tokyonight&hide_border=true" alt="raw-material-marketplace-design"/>
 </a>
 
 <a href="https://github.com/shoaibmhr/Textutils-reactapp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=Textutils-reactapp&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&border_color=21262D" alt="Textutils-reactapp"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=Textutils-reactapp&theme=tokyonight&hide_border=true" alt="Textutils-reactapp"/>
 </a>
 <a href="https://github.com/shoaibmhr/ShoaibcoderBootstrap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=ShoaibcoderBootstrap&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&border_color=21262D" alt="ShoaibcoderBootstrap"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shoaibmhr&repo=ShoaibcoderBootstrap&theme=tokyonight&hide_border=true" alt="ShoaibcoderBootstrap"/>
 </a>
 
 </div>
@@ -878,21 +878,12 @@ If you're hiring for an internship or junior role, or need a developer for a fre
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shoaibmhr&show_icons=true&hide_border=true&rank_icon=github&count_private=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&ring_color=22D3EE" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibmhr&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shoaibmhr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibmhr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=shoaibmhr&theme=dark&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<h3>🐍 Contribution Graph</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoaibmhr/shoaibmhr/output/github-snake-dark.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/shoaibmhr/shoaibmhr/output/github-snake.svg"/>
-</picture>
+<img src="https://streak-stats.demolab.com?user=shoaibmhr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
