@@ -221,11 +221,19 @@ Data Analysis
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibmhr&theme=react-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&custom_title=Shoaib%20Contribution%20Graph" alt="Contribution Graph"/>
+<img src="./assets/contribution-graph.svg" width="90%" alt="Shoaib's Contribution Graph"/>
 
 <br/><br/>
 
 <img src="https://ghchart.rshah.org/9ca3af/shoaibmhr" alt="Contribution Calendar" width="90%"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shoaibmhr/shoaibmhr/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shoaibmhr/shoaibmhr/output/github-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shoaibmhr/shoaibmhr/output/github-snake-dark.svg" width="90%"/>
+</picture>
 
 <br/><br/>
 
