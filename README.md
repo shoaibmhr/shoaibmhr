@@ -1,12 +1,10 @@
-<!-- ===================== HEADER BANNER ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:0E7490,100:06B6D4&text=Shoaib%20Nawaz&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Web%20Developer&descAlignY=60&descSize=18&animation=fadeIn" alt="Shoaib Nawaz Banner"/>
+<img src="./assets/banner.svg" width="100%" alt="Shoaib Nawaz - Software Engineering Student and Full-Stack Web Developer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=React.js+%7C+Node.js+%7C+PostgreSQL;Building+real-world+web+applications;Now+exploring+AI+%26+Machine+Learning" alt="Typing animation"/>
+<br/>
 
-<br/><br/>
+### Welcome to my GitHub profile 👋
 
 <a href="https://github.com/shoaibmhr">
   <img src="https://img.shields.io/badge/GitHub-shoaibmhr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -21,19 +19,18 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=shoaibmhr&label=Profile%20Views&color=0891b2&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/shoaibmhr?style=flat-square&logo=github&color=0891B2" alt="Followers"/>
 <img src="https://img.shields.io/badge/Open_to-Internships_%26_Freelance-22C55E?style=flat-square" alt="Open to work"/>
 
 </div>
 
-<br/>
-
-<!-- ===================== ABOUT ME ===================== -->
+---
 
 ## 👨‍💻 About Me
 
 I'm **Shoaib Nawaz**, a Software Engineering student and full-stack web developer from Pakistan. I build practical, responsive web applications with **React.js**, **Node.js** and **PostgreSQL**, from business websites to admin dashboards and e-commerce platforms.
 
-I focus on writing clean code, building real-world projects, and delivering interfaces that are simple to use. I'm now expanding into **AI & Machine Learning**, starting with Python, data collection and web scraping.
+I focus on clean code, real-world projects, and interfaces that are simple to use. I'm now expanding into **AI & Machine Learning**, starting with Python, data collection and web scraping.
 
 <table>
 <tr>
@@ -48,28 +45,55 @@ I focus on writing clean code, building real-world projects, and delivering inte
 </tr>
 </table>
 
-<br/>
-
-<!-- ===================== TECH STACK ===================== -->
+---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="160"><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+</td>
+</tr>
+<tr>
+<td><b>Database</b></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</td>
+</tr>
+<tr>
+<td><b>AI / Data</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Web_Scraping-0891B2?style=for-the-badge" alt="Web Scraping"/>
+</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</td>
+</tr>
+</table>
 
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend"/>
-
-**Backend & Database**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres" alt="Backend"/>
-
-**Languages & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=py,js,git,github,vscode,figma" alt="Tools"/>
-
-</div>
-
-<br/>
-
-<!-- ===================== FEATURED PROJECTS ===================== -->
+---
 
 ## 🌟 Featured Projects
 
@@ -179,45 +203,17 @@ Explore all my repositories, including raw-material marketplace designs, React a
 </tr>
 </table>
 
-<br/>
+---
 
-<!-- ===================== CURRENTLY LEARNING ===================== -->
+## 🤖 Learning Roadmap: Web Development → AI & Machine Learning
 
-## 🤖 Currently Learning: AI & Machine Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Web_Scraping-0891B2?style=for-the-badge" alt="Web Scraping"/>
-<img src="https://img.shields.io/badge/Data_Collection-7C3AED?style=for-the-badge" alt="Data Collection"/>
-<img src="https://img.shields.io/badge/Machine_Learning-F97316?style=for-the-badge" alt="Machine Learning"/>
-
-</div>
+<img src="./assets/roadmap.svg" width="100%" alt="Learning roadmap from web development to AI and machine learning"/>
 
 * 🐍 Python fundamentals for data work (requests, BeautifulSoup)
 * 🗂️ Collecting and preparing datasets for AI/ML
 * 🧠 Machine Learning basics, then applying them to web projects
 
-<br/>
-
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shoaibmhr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibmhr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=shoaibmhr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<!-- ===================== CONNECT ===================== -->
+---
 
 ## 🤝 Let's Connect
 
@@ -235,7 +231,5 @@ I'm open to internships, freelance work and collaboration on meaningful projects
 <br/><br/>
 
 <i>"Build with purpose. Learn through practice. Improve every day."</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06B6D4,50:0E7490,100:0F172A&section=footer" alt="Footer"/>
 
 </div>
