@@ -1,19 +1,15 @@
-<!-- ===================== PROFILE HEADER ===================== -->
+<!-- ===================== HEADER BANNER ===================== -->
 
 <div align="center">
 
-# 👋 Hi, I'm Shoaib Nawaz
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:0E7490,100:06B6D4&text=Shoaib%20Nawaz&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Web%20Developer&descAlignY=60&descSize=18&animation=fadeIn" alt="Shoaib Nawaz Banner"/>
 
-### 💻 Frontend React Developer | Full-Stack Web Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=React.js+%7C+Node.js+%7C+PostgreSQL;Building+real-world+web+applications;Now+exploring+AI+%26+Machine+Learning" alt="Typing animation"/>
 
-Building modern, responsive, and user-friendly web applications with React.js and full-stack technologies.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Frontend+React+Developer;Full-Stack+Web+Developer;React.js+%7C+Node.js+%7C+Django;Turning+Ideas+Into+Web+Applications" alt="Typing SVG" />
-
-<br/>
+<br/><br/>
 
 <a href="https://github.com/shoaibmhr">
-  <img src="https://img.shields.io/badge/GitHub-shoaibmhr-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-shoaibmhr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/shoaib-nawaz-tech">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -24,137 +20,92 @@ Building modern, responsive, and user-friendly web applications with React.js an
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shoaibmhr&label=Profile%20Views&color=0891b2&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=shoaibmhr&label=Profile%20Views&color=0891b2&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Open_to-Internships_%26_Freelance-22C55E?style=flat-square" alt="Open to work"/>
 
 </div>
 
----
+<br/>
 
 <!-- ===================== ABOUT ME ===================== -->
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-Hi! I'm **Shoaib Nawaz**, a web developer passionate about building practical, responsive, and visually appealing web applications.
+I'm **Shoaib Nawaz**, a Software Engineering student and full-stack web developer from Pakistan. I build practical, responsive web applications with **React.js**, **Node.js** and **PostgreSQL**, from business websites to admin dashboards and e-commerce platforms.
 
-I work primarily with **React.js** to develop modern user interfaces and have experience building full-stack applications using backend technologies and databases.
+I focus on writing clean code, building real-world projects, and delivering interfaces that are simple to use. I'm now expanding into **AI & Machine Learning**, starting with Python, data collection and web scraping.
 
-I enjoy turning ideas into functional websites, creating interactive dashboards, and developing web applications that solve real business needs.
+<table>
+<tr>
+<td>
 
-* 💻 Focused on frontend development with React.js.
-* ⚙️ Experienced in building full-stack web applications.
-* 🎨 Interested in clean UI, responsive layouts, and user experience.
-* 🛒 Built e-commerce and business-oriented web projects.
-* ☕ Developed projects for different business concepts.
-* 🌱 Continuously improving my web development skills.
-* 🤝 Interested in collaborating on meaningful web development projects.
+🔭 **Working on:** Full-stack business applications and admin portals<br/>
+🌱 **Learning:** Python for AI/ML, web scraping, data handling<br/>
+🎯 **Goal:** Build production-quality products and grow into AI-powered applications<br/>
+🤝 **Open to:** Internships, freelance projects and collaboration
 
----
+</td>
+</tr>
+</table>
+
+<br/>
 
 <!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend"/>
 
-### ⚛️ Frontend Development
+**Backend & Database**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres" alt="Backend"/>
 
-<p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-0EA5E9?style=for-the-badge" alt="Responsive Design"/>
-</p>
+**Languages & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=py,js,git,github,vscode,figma" alt="Tools"/>
 
-### ⚙️ Backend Development
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
-
-### 🧰 Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</p>
-
----
+<br/>
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 
 ## 🌟 Featured Projects
 
-Here are some of my web development projects, showcasing my experience with React.js, frontend development, and full-stack application development.
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 1. Fruitkha — E-Commerce Store
+### 🛒 Fruitkha — E-Commerce Store
 
-A full-stack e-commerce store developed to provide a web-based shopping experience. The project combines a React frontend with a Django backend and PostgreSQL database.
+Full-stack e-commerce store with a React frontend, Django backend and PostgreSQL database.
 
-**Key Highlights**
-
-* React.js frontend.
-* Django backend.
-* PostgreSQL database.
-* Full-stack web application architecture.
-
-**Technologies**
-
-<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 
 <br/><br/>
 
 <a href="https://github.com/mabdullahw70-tech/my-project">
-  <img src="https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Fruitkha Project"/>
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Fruitkha Repo"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 2. ArtbyAdeel.com — Business Website
+### 🎨 ArtbyAdeel.com — Business Website
 
-A frontend-focused business website built with React.js to showcase a business and help customers explore its offerings.
+Live business website built with React.js. Customers can browse the offerings and place inquiries and orders directly through WhatsApp.
 
-Customers can contact the business through WhatsApp to request information and place orders.
-
-**Key Highlights**
-
-* React.js frontend.
-* Business-focused website.
-* Customer information and order inquiries through WhatsApp.
-* User-friendly browsing experience.
-
-**Technologies**
-
-<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 
 <br/><br/>
 
 <a href="https://artbyadeel.com">
-  <img src="https://img.shields.io/badge/Visit_Live_Website-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit ArtbyAdeel.com"/>
+  <img src="https://img.shields.io/badge/Live_Website-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website"/>
 </a>
 
 </td>
@@ -163,72 +114,91 @@ Customers can contact the business through WhatsApp to request information and p
 <tr>
 <td width="50%" valign="top">
 
-### 📊 3. NextDine — Dashboard UI
+### 📊 NexDine — Dashboard UI
 
-A frontend dashboard project developed with React.js, focusing on dashboard layouts, interface organization, and reusable UI components.
+React dashboard focused on clean layouts, organized interface structure and reusable UI components.
 
-**Key Highlights**
-
-* React.js frontend.
-* Dashboard-focused interface.
-* Organized application layout.
-* Interactive frontend experience.
-
-**Technologies**
-
-<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Frontend_Development-0EA5E9?style=flat-square" alt="Frontend Development"/>
 
 <br/><br/>
 
 <a href="https://github.com/shoaibmhr/NexDine">
-  <img src="https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View NextDine Project"/>
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="NexDine Repo"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### ☕ 4. BlendBrew — Coffee Shop Website
+### ☕ BlendBrew — Coffee Shop Website
 
-A full-stack coffee shop website developed using React.js for the frontend and Node.js for the backend.
+Full-stack coffee shop website with a React frontend and Node.js backend, built as a real client-style project.
 
-The project demonstrates my experience combining frontend interfaces with backend application functionality.
-
-**Key Highlights**
-
-* React.js frontend.
-* Node.js backend.
-* Full-stack web development.
-* Coffee shop business concept.
-
-**Technologies**
-
-<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Full_Stack-7C3AED?style=flat-square" alt="Full-Stack Development"/>
 
 <br/><br/>
 
 <a href="https://github.com/ashtechdigitalsolutions/coffee_website">
-  <img src="https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View BlendBrew Project"/>
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="BlendBrew Repo"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ Sarab — Restaurant Management System
+
+Restaurant management website with an admin-side system for handling restaurant operations.
+
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+<br/><br/>
+
+<a href="https://github.com/shoaibmhr/Sarab">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sarab Repo"/>
+</a>
+
+</td>
+<td width="50%" valign="middle" align="center">
+
+### 🔎 More Projects
+
+Explore all my repositories, including raw-material marketplace designs, React apps and more.
+
+<br/>
+
+<a href="https://github.com/shoaibmhr?tab=repositories">
+  <img src="https://img.shields.io/badge/All_Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
 </a>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<!-- ===================== CURRENTLY LEARNING ===================== -->
+
+## 🤖 Currently Learning: AI & Machine Learning
+
 <div align="center">
 
-### 🔎 Explore More Projects
-
-<a href="https://github.com/shoaibmhr/Sarab">
-  <img src="https://img.shields.io/badge/Explore_All_Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
-</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Web_Scraping-0891B2?style=for-the-badge" alt="Web Scraping"/>
+<img src="https://img.shields.io/badge/Data_Collection-7C3AED?style=for-the-badge" alt="Data Collection"/>
+<img src="https://img.shields.io/badge/Machine_Learning-F97316?style=for-the-badge" alt="Machine Learning"/>
 
 </div>
 
----
+* 🐍 Python fundamentals for data work (requests, BeautifulSoup)
+* 🗂️ Collecting and preparing datasets for AI/ML
+* 🧠 Machine Learning basics, then applying them to web projects
+
+<br/>
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
@@ -237,52 +207,35 @@ The project demonstrates my experience combining frontend interfaces with backen
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=shoaibmhr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibmhr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=shoaibmhr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
----
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-## 🎯 Current Focus
-
-* ⚛️ Building modern frontend applications with React.js.
-* 🎨 Improving responsive design and UI development.
-* ⚙️ Strengthening full-stack development skills.
-* 🗄️ Working with backend technologies and databases.
-* 🚀 Building practical projects for real-world use.
-* 📚 Learning continuously and improving code quality.
-
----
+<br/>
 
 <!-- ===================== CONNECT ===================== -->
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with developers, collaborating on web development projects, and exploring opportunities to build useful digital products.
+I'm open to internships, freelance work and collaboration on meaningful projects. Feel free to reach out.
 
 <div align="center">
-
-<a href="https://github.com/shoaibmhr">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 
 <a href="https://www.linkedin.com/in/shoaib-nawaz-tech">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:shoaibmhr895@gmail.com">
   <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-### 💡 "Build with purpose. Learn through practice. Improve every day."
+<i>"Build with purpose. Learn through practice. Improve every day."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06B6D4,50:0E7490,100:0F172A&section=footer" alt="Footer"/>
 
 </div>
