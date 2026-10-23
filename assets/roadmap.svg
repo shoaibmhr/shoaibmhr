@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="170" viewBox="0 0 1000 170" fill="none" role="img" aria-label="Learning roadmap from web development to AI and machine learning">
+  <style>
+    .mono { font-family: 'Fira Code', 'JetBrains Mono', Consolas, Menlo, 'Courier New', monospace; }
+    .sans { font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; }
+  </style>
+
+  <rect width="1000" height="170" rx="16" fill="#0F172A"/>
+  <rect x="1" y="1" width="998" height="168" rx="15" stroke="#22D3EE" stroke-opacity="0.3" stroke-width="2"/>
+  <text class="mono" x="30" y="32" font-size="13" fill="#64748B">// my learning roadmap</text>
+
+  <!-- Connectors -->
+  <line x1="143" y1="80" x2="357" y2="80" stroke="#22D3EE" stroke-width="3"/>
+  <line x1="393" y1="80" x2="607" y2="80" stroke="#22D3EE" stroke-width="3"/>
+  <line x1="643" y1="80" x2="857" y2="80" stroke="#475569" stroke-width="3" stroke-dasharray="6 6"/>
+
+  <!-- Node 1: done -->
+  <circle cx="125" cy="80" r="18" fill="#22D3EE"/>
+  <path d="M117 80l6 6 11-12" stroke="#0B1220" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Node 2: done -->
+  <circle cx="375" cy="80" r="18" fill="#22D3EE"/>
+  <path d="M367 80l6 6 11-12" stroke="#0B1220" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Node 3: in progress -->
+  <circle cx="625" cy="80" r="18" fill="#F59E0B" fill-opacity="0.2" stroke="#F59E0B" stroke-width="2"/>
+  <circle cx="625" cy="80" r="6" fill="#F59E0B"/>
+  <circle cx="625" cy="80" r="18" stroke="#F59E0B" stroke-width="2" fill="none">
+    <animate attributeName="r" values="18;30;18" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Node 4: up next -->
+  <circle cx="875" cy="80" r="18" stroke="#64748B" stroke-width="2" stroke-dasharray="4 4" fill="none"/>
+  <text class="mono" x="875" y="85" font-size="13" fill="#94A3B8" text-anchor="middle">ML</text>
+
+  <!-- Labels -->
+  <g class="sans" font-size="16" font-weight="700" fill="#E2E8F0" text-anchor="middle">
+    <text x="125" y="124">React &amp; Node.js</text>
+    <text x="375" y="124">Full-Stack Projects</text>
+    <text x="625" y="124">Python &amp; Web Scraping</text>
+    <text x="875" y="124">Machine Learning</text>
+  </g>
+  <g class="mono" font-size="12" text-anchor="middle">
+    <text x="125" y="146" fill="#22D3EE">completed</text>
+    <text x="375" y="146" fill="#22D3EE">completed</text>
+    <text x="625" y="146" fill="#F59E0B">in progress</text>
+    <text x="875" y="146" fill="#64748B">up next</text>
+  </g>
+</svg>
